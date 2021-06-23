@@ -1,0 +1,19 @@
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main-square-overflown-alert {
+    min-width: 200px;
+    padding: 5px;
+    color: #842029;
+    background-color: #f8d7da;
+    border: 1px solid #f5c2c7;
+    cursor: pointer;
+    margin-top: 16px;
+}
